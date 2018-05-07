@@ -1,20 +1,17 @@
 # Beauty
----
 Just a practice app.
 
 ## Screenshots
----
-<img src="http://p8c5npmn9.bkt.clouddn.com/demo1.gif">
-<img src="http://p8c5npmn9.bkt.clouddn.com/demo2.gif">
+![demo1](http://p8c5npmn9.bkt.clouddn.com/demo1.gif)
+![demo2](http://p8c5npmn9.bkt.clouddn.com/demo2.gif)
+
 
 ## Features
----
 * Google MVP Design
 * Material Design
 * Solve Blank, Picture Jump and Unaligned
 
 ## Libraries
----
 * ButterKnife - http://jakewharton.github.io/butterknife
 * Glide - https://github.com/bumptech/glide
 * RxJava - https://github.com/ReactiveX/RxJava
@@ -27,13 +24,11 @@ Just a practice app.
 * LeakCanary - https://github.com/square/leakcanary
 
 ## Thanks
----
 * http://gank.io/
 * https://www.jianshu.com/p/81e088000ba6
 * ......
 
 ## License
----
     Copyright 2018 SweetMilkCake
 
     Licensed under the Apache License, Version 2.0 (the "License");
