@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_mail"
+            android:icon="@drawable/ic_mail"
+            android:title="Mail" />
+        <item
+            android:id="@+id/nav_github"
+            android:icon="@drawable/ic_github_circle"
+            android:title="GitHub" />
+    </group>
+
+    <group
+        android:id="@+id/group2"
+        android:checkableBehavior="none">
+        <item
+            android:id="@+id/nav_about"
+            android:icon="@drawable/ic_about"
+            android:title="About" />
+    </group>
+
+</menu>

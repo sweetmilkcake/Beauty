@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="fab_size_mini">44dp</dimen>
+    <dimen name="fab_size_normal">56dp</dimen>
+
+    <dimen name="text_size_large">14sp</dimen>
+    <dimen name="text_size_medium">12sp</dimen>
+    <dimen name="text_size_small">10sp</dimen>
+    <dimen name="text_size_xlarge">16sp</dimen>
+
+    <dimen name="avatar_notification_size">38dp</dimen>
+    <dimen name="avatar_size">30dp</dimen>
+
+    <dimen name="navigation_bottom_bar_delete_video">48dp</dimen>
+    <dimen name="navigation_bottom_bar_size">50dp</dimen>
+    <dimen name="navigation_drawer_width">288dp</dimen>
+    <dimen name="navigation_top_bar_size">56dp</dimen>
+    
+    <dimen name="notification_action_height">48dp</dimen>
+    <dimen name="notification_action_icon_size">32dp</dimen>
+    <dimen name="notification_action_padding">4dp</dimen>
+    <dimen name="notification_action_text_size">13sp</dimen>
+    <dimen name="notification_action_width">48dp</dimen>
+    <dimen name="notification_big_circle_margin">12dp</dimen>
+    <dimen name="notification_big_icon_height">68dp</dimen>
+    <dimen name="notification_big_icon_width">68dp</dimen>
+    <dimen name="notification_expanded_button_height">48dp</dimen>
+    <dimen name="notification_expanded_button_padding">8dp</dimen>
+    <dimen name="notification_expanded_buttons_divider_padding">12dp</dimen>
+    <dimen name="notification_expanded_collapse_padding">8dp</dimen>
+    <dimen name="notification_expanded_content_padding_top">8dp</dimen>
+    <dimen name="notification_expanded_height">114dp</dimen>
+    <dimen name="notification_info_container_padding_bottom">4dp</dimen>
+    <dimen name="notification_info_container_padding_left">8dp</dimen>
+    <dimen name="notification_large_icon_height">64dp</dimen>
+    <dimen name="notification_large_icon_width">64dp</dimen>
+    <dimen name="notification_right_icon_size">16dp</dimen>
+    <dimen name="notification_small_icon_background_padding">3dp</dimen>
+    <dimen name="notification_small_icon_size_as_large">24dp</dimen>
+    <dimen name="notification_subtext_size">13sp</dimen>
+    <dimen name="notification_top_pad">8dp</dimen>
+    <dimen name="notification_top_pad_large_text">5dp</dimen>
+
+</resources>

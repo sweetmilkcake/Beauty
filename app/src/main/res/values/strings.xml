@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Beauty</string>
+
+    <string name="beauty_detail">BeautyDetail</string>
+    <string name="double_click_exit">One more exit</string>
+    <string name="nick_name">SweetMilkCake</string>
+    <string name="mail">sweetmilkcake@outlook.com</string>
+    <string name="github">https://github.com/sweetmilkcake</string>
+
+    <string name="about_me">About me</string>
+    <string name="empty_data">No data</string>
+    <string name="item_load_end">No more data</string>
+    <string name="item_load_failed">Load failed, please click to retry</string>
+    <string name="item_loading">Loading...</string>
+
+    <string name="cancel">Cancel</string>
+    <string name="visit">Visit</string>
+
+    <string name="action_download">Download</string>
+
+    <string name="hint_storage_permission_failed">No access to "storage" access is obtained.
+Please allow "store" permission in system settings or authorization dialog box.</string>
+
+    <string name="scale_down_show_behavior">com.sweetmilkcake.beauty.behavior.ScaleDownShowBehavior</string>
+    <string name="beauty_about_opensource">Beauty is a open source Online Image Viewer developed by SweetMilkCake.</string>
+</resources>

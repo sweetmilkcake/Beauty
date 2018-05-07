@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Beauty</string>
+
+    <string name="beauty_detail">BeautyDetail</string>
+    <string name="double_click_exit">再按一次退出</string>
+    <string name="nick_name">SweetMilkCake</string>
+    <string name="mail">sweetmilkcake@outlook.com</string>
+    <string name="github">https://github.com/sweetmilkcake</string>
+
+    <string name="about_me">关于我</string>
+    <string name="empty_data">暂无数据</string>
+    <string name="item_load_end">没有更多数据</string>
+    <string name="item_load_failed">加载失败，请点我重试</string>
+    <string name="item_loading">正在加载中...</string>
+
+    <string name="cancel">取消</string>
+    <string name="visit">访问</string>
+
+    <string name="action_download">下载</string>
+
+    <string name="hint_storage_permission_failed">"未获取到“存储”访问权限。
+请在“系统设置”或授权对话框中允许“存储”权限"</string>
+    <string name="beauty_about_opensource">Beauty 是 SweetMilkCake 开发的一款开源的在线图片浏览器。</string>
+
+    <string name="scale_down_show_behavior">com.sweetmilkcake.beauty.behavior.ScaleDownShowBehavior</string>
+
+</resources>
