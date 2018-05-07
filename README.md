@@ -2,9 +2,8 @@
 Just a practice app.
 
 ## Screenshots
-![demo1](http://p8c5npmn9.bkt.clouddn.com/demo1.gif)
-![demo2](http://p8c5npmn9.bkt.clouddn.com/demo2.gif)
-
+![demo1](https://github.com/sweetmilkcake/Beauty/blob/master/Screenshots/demo1.gif)
+![demo2](https://github.com/sweetmilkcake/Beauty/blob/master/Screenshots/demo2.gif)
 
 ## Features
 * Google MVP Design
