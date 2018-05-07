@@ -5,6 +5,9 @@ Just a practice app.
 ![demo1](https://github.com/sweetmilkcake/Beauty/blob/master/Screenshots/demo1.gif)
 ![demo2](https://github.com/sweetmilkcake/Beauty/blob/master/Screenshots/demo2.gif)
 
+## Download
+https://github.com/sweetmilkcake/Beauty/releases
+
 ## Features
 * Google MVP Design
 * Material Design
